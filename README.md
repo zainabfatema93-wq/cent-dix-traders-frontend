@@ -1,16 +1,41 @@
-# React + Vite
+# Cent-Dix Traders 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack e-commerce web application built with the MERN stack.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User registration and login
+- Google authentication
+- Product catalog and product details
+- Product category filtering and sorting
+- Shopping cart and checkout
+- Order confirmation
+- AI shopping assistant
+- Admin panel for product and order management
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- Cloudinary
 
-## Expanding the ESLint configuration
+## Live Website
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://cent-dix-traders.pages.dev/
+
+## Repositories
+
+- Frontend: https://github.com/zainabfatema93-wq/cent-dix-traders-frontend
+- Backend: https://github.com/zainabfatema93-wq/cent-dix-traders-backend
+
+## About Me
+
+I am a junior full-stack web developer interested in building user-friendly web applications.
+
+GitHub: https://github.com/zainabfatema93-wq
